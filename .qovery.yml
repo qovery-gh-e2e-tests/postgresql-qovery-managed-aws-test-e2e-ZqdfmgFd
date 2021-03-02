@@ -1,0 +1,8 @@
+application:
+  name: httpbin
+  project: postgresql-qovery-managed-aws-test-e2e-ZqdfmgFd
+  organization: QoveryTest
+databases:
+- type: postgresql
+  version: 12
+  name: e2e-postgresql
